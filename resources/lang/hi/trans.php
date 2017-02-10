@@ -1,0 +1,60 @@
+<?php
+return array(
+    'language' => 'भाषा',
+    'contact' => 'हमसे संपर्क करें',
+    'about' => 'हमारे बारे में',
+    'home' => 'मुख पृष्ठ',
+    'title' => 'दुनिया से जानकारी',
+    'logo' => 'दुनिया से जानकारी',
+    'look for country' => 'जगह के लिए देखो',
+    'country' => 'देश',
+    'search' => 'खोज',
+    'prayer Times' => 'प्रार्थना के समय',
+    'fajr' => 'fajr',
+    'dhuhr' => 'dhuhr',
+    'asr' => 'asr',
+    'maghrib' => 'maghrib',
+    'isha' => 'isha',
+    'weather' => 'मौसम',
+    'wind direction' => 'हवा की दिशा',
+    'wind speed' => 'हवा की गति',
+    'temprature' => 'temprature के',
+    'time and date' => 'समय और तारीख',
+    'ip address' => 'आईपी पता',
+    'name' => 'नाम',
+    'email' => 'ईमेल',
+    'subject' => 'विषय',
+    'message' => 'संदेश',
+    'send' => 'भेजना',
+    'all rights reserved' => 'सर्वाधिकार सुरक्षित',
+    'view place' => 'देखें जगह',
+    'international phone key' => 'अंतरराष्ट्रीय फोन कुंजी',
+    'zip code' => 'पिन कोड',
+    'there is none' => 'वहां कुछ नहीं है',
+    'see more' => 'और देखें',
+    'about place' => 'जगह के बारे में',
+    'no data in wikipedia' => 'विकिपीडिया में कोई डाटा नहीं',
+    'states' => 'राज्यों',
+    'cities' => 'शहरों',
+    'stock market' => 'शेयर बाजार',
+    'capital' => 'राजधानी',
+    'drag me' => 'मुझे खींचो',
+    'last visited places' => 'पिछले स्थानों का दौरा किया',
+    'no data' => 'कोई जानकारी उपलब्ध नहीं होते हैं',
+    'about title' => 'कंपनी प्रोफाइल',
+
+    //    new
+    'latest articles' => 'ताज़ा लेख',
+    'important links' => 'महत्वपूर्ण लिंक',
+    'site map' => 'साइट का नक्शा',
+    'terms' => 'उपयोग की शर्तें',
+    'pages' => 'पृष्ठों',
+    'see all places' => 'सभी स्थानों पर देखते हैं',
+    'all articles' => 'सभी चीज़ें',
+    'tags' => 'टैग'
+
+
+
+
+
+);

@@ -1,0 +1,99 @@
+body {
+    font: 16px 'OpenSans', sans-serif;
+}
+
+select {
+    background: transparent url("../images/caret.png") no-repeat 97% center;
+}
+
+.pull-right {
+    float: left !important;
+}
+
+.pull-left {
+    float: right !important;
+}
+
+.right-fa {
+    margin-right: 5px;
+}
+
+.left-fa {
+    margin-left: 5px;
+}
+
+.navbar-toggle {
+    float: right;
+}
+
+.navbar-brand {
+    float: left;
+}
+
+footer ul li a:hover {
+    padding-left: 5px;
+}
+
+.mCSB_inside > .mCSB_container {
+    margin-right: 15px !important;
+}
+
+.owl-top .fa {
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+
+.nav .dropdown-menu {
+    left: auto;
+    right: 0;
+}
+
+.box ul, .box ol {
+    margin-left: 20px;
+}
+
+.post-details > div:not(:first-child) {
+    border-left: 1px solid #eaeaea;
+}
+
+.details span {
+    margin-right: 10px;
+}
+
+.details .share:after {
+    left: 0;
+}
+
+.results h2
+{
+    margin-left: 10px;
+}
+
+/***/
+
+@media (min-width: 768px) {
+
+    .text-align-right {
+        text-align: left;
+    }
+
+    .text-align-left {
+        text-align: right;
+    }
+
+    .navbar-nav > li, .navbar-header {
+        float: left;
+    }
+
+    .navbar-nav {
+        float: right;
+    }
+
+    .map-holder .search-block {
+        left: 15%;
+    }
+
+}

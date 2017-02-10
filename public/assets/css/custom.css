@@ -1,0 +1,61 @@
+/*--------------------------------------
+*********** custom ***********
+--------------------------------------*/
+#admin-images {
+    width: 100%;
+    height: 300px;
+    overflow: scroll;
+    direction: rtl;
+}
+
+#tabel {
+    width: 100%;
+    height: 300px;
+    overflow: scroll;
+    direction: rtl;
+}
+
+#admin-desc {
+    width: 100%;
+    height: 400px;
+    overflow: scroll;
+    direction: rtl;
+}
+
+#disc {
+    font-size: 16px;
+}
+
+#capital {
+    text-decoration: none;
+    color: white;
+    font-size: 35px;
+    text-align: right;
+}
+
+#capital:hover {
+    text-decoration: underline;
+}
+
+#table-img {
+    width: 50px;
+    height: 50px;
+}
+
+#content-wrapper {
+    min-height: 1650px;
+}
+
+#div-marign {
+    padding: 25px;
+}
+
+i.weather {
+    height: 0px;
+}
+
+#add-select {
+    height: 40px;
+}
+
+

@@ -1,0 +1,2 @@
+{{ header('location: '.url('/')) }}
+{{ die() }}
